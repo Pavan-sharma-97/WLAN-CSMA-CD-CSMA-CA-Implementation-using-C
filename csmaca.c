@@ -1,3 +1,4 @@
+//code
 #include<stdio.h> #including important libraries
 #include<stdlib.h>
 #include<signal.h>
