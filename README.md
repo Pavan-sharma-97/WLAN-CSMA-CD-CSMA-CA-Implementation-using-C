@@ -1,7 +1,5 @@
 # WLAN-CSMA-CD-CSMA-CA-Implementation-using-C
 
-# WLAN – CSMA/CD & CSMA/CA Protocol Simulation in C
-
 ## 📡 Project Overview
 
 This project presents a **high-fidelity simulation of medium access control (MAC) protocols** used in wired and wireless networks—**CSMA/CD (Carrier Sense Multiple Access with Collision Detection)** and **CSMA/CA (Carrier Sense Multiple Access with Collision Avoidance)**—implemented in **C using POSIX threads**.
