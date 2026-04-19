@@ -1,8 +1,4 @@
 # WLAN-CSMA-CD-CSMA-CA-Implementation-using-C
-Below is a **high‑end, professional GitHub project description** suitable for a **README.md**.  
-It is written to sound academic, industry‑ready, and portfolio‑grade.
-
-***
 
 # WLAN – CSMA/CD & CSMA/CA Protocol Simulation in C
 
